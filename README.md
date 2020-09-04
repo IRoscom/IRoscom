@@ -6,10 +6,10 @@
 
 ### Соц.сети:
 
-[<img align="left" alt="YouTube" width="26px" src="">][youtube]
-[<img align="left" alt="Instagram" width="26px" src="">][instagram]
-[<img align="left" alt="VK" width="26px" src="">][vk]
-[<img align="left" alt="Steam" width="26px" src="">][steam]
+[<img align="left" alt="YouTube" width="26px" src="https://raw.githubusercontent.com/IRoscom/IRoscom/master/assets/youtube.svg">][youtube]
+[<img align="left" alt="Instagram" width="26px" src="https://raw.githubusercontent.com/IRoscom/IRoscom/master/assets/instagram.svg">][instagram]
+[<img align="left" alt="VK" width="26px" src="https://raw.githubusercontent.com/IRoscom/IRoscom/master/assets/vk.svg">][vk]
+[<img align="left" alt="Steam" width="26px" src="https://raw.githubusercontent.com/IRoscom/IRoscom/master/assets/steam.svg">][steam]
 
 <br />
 
