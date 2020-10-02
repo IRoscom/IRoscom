@@ -25,5 +25,5 @@
 [website]: https://bettybot.xyz
 [youtube]: https://youtube.com/channel/UCB8XK7BLBVvUBAmp18yrBFQ
 [instagram]: https://instagram.com/itsRoscom/
-[vk]: https://vk.com/roscomm
+[vk]: https://vk.com/itsroscom
 [steam]: https://steamcommunity.com/id/roscom/
